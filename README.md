@@ -1,2 +1,2 @@
-# miidas0.github.io
-https://miidas0.github.io/
+# miidas.github.io
+https://miidas.github.io/
